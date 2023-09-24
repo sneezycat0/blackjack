@@ -13,4 +13,6 @@ to open a -not affiliated- webpage with the Blackjack rules the game uses.
 
 The game also accepts a "names.txt" file in the same folder to use as names for the CPU players.
 
+To add music, create a folder called "music" in the same path as the game, and add your files there.
+
 I think that's it, enjoy! If you've any questions or feedback feel free to contact me.
